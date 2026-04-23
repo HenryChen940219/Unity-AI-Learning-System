@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="logo_webduino_title_new" size="1.000000 0.928922" />
+    <ImageTarget name="logo_arduino_part2" size="1.000000 2.089109" />
+    <ImageTarget name="logo_arduino_part1" size="1.000000 2.105000" />
+    <ImageTarget name="logo_arduino_title" size="1.000000 1.009901" />
+    <ImageTarget name="logo_webduino_part_2" size="1.000000 2.262887" />
+    <ImageTarget name="logo_webduino_part_1" size="1.000000 2.274510" />
+    <ImageTarget name="logo_webduino_title" size="1.000000 0.977974" />
+  </Tracking>
+</QCARConfig>
